@@ -20,7 +20,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
+        name: `Rishab Kumar`,
         short_name: `Rishab`,
         description: `I try to create noice web expreriences.`,
         start_url: `/`,
@@ -29,12 +29,12 @@ module.exports = {
         display: `standalone`,
         icons: [
           {
-            src: `/android-chrome-192x192.png`,
+            src: `/static/android-chrome-192x192.png`,
             sizes: `192x192`,
             type: `image/png`,
           },
           {
-            src: `/android-chrome-512x512.png`,
+            src: `/static/android-chrome-192x192.png`,
             sizes: `512x512`,
             type: `image/png`,
           },
